@@ -63,3 +63,4 @@ transforming abstract concepts into real-world, tech-driven solutions. 💡📈
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/IPFS-Blue?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
+
