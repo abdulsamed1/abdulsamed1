@@ -45,8 +45,8 @@ transforming abstract concepts into real-world, tech-driven solutions. 💡📈
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamed113&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulsamed113&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamed1&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulsamed1&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <hr style="border-top: 2px solid #0077B5; width: 80%; margin: 30px auto;" />
