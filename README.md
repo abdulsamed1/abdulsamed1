@@ -19,30 +19,11 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-**🎯 The Problem I Solve**
+My primary programming language is C++, and my long-term interests focus on Back-End and Blockchain. In recent months, I have been concentrating on Software architecture  together with the exploration of practical application scenarios.
 
-Every codebase I encounter tells a story—some are tales of rushed deadlines and technical debt, others are clean narratives of thoughtful engineering. I specialize in writing the latter. When teams approach me with legacy systems that have become unmaintainable, or when they need to architect something new from scratch, I bring one fundamental principle: **understanding the 'what' and 'why' must always precede the 'how'**.
+I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work.
 
-**💡 My Engineering Journey**
-
-I didn't start as someone who builds software—I started as someone who solves problems. Early in my career, I noticed that the most elegant solutions often came from stepping back and asking better questions rather than jumping straight to implementation. This led me to develop a methodology centered on **Software Architecture** that adapts organically with business needs, rather than rigid structures that break under pressure.
-
-**🌍 Where I Make Impact**
-
-Today, I work at the fascinating intersection where **Web2 meets Web3**, where traditional systems need to communicate with decentralized networks. I've helped teams bridge these worlds by building intuitive interfaces that make blockchain feel as natural as any web application. When **AI** enters the equation, I integrate it strategically—not as a buzzword, but as a tool that genuinely enhances user experience and system intelligence.
-
-**⚙️ How I Work**
-
-My development process is built around one core belief: **calm releases beat rushed deployments**. I prioritize comprehensive testing, thorough code reviews, and proven practices, whether I'm working solo or with a team. Every feature goes through rigorous validation because production stability isn't negotiable—it's the foundation everything else is built upon.
-
-**🔧 Tools and Technology Philosophy**
-
-I choose technologies based on one criterion: which option offers the least trade-offs for this specific project context and feature requirements? Popular doesn't always mean right—context and careful trade-off analysis do.
-
-**🚀 What Drives Me**
-
-I'm actively seeking collaboration with teams who understand that great software is about more than just making things work—it's about making them work reliably, maintainably, and beautifully. If you're building technology that needs to solve real problems and stand the test of time, let's create something remarkable together.
-
+I'm currently focus on the practical implementation.
 </div>
 
 
