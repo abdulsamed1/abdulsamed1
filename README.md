@@ -12,7 +12,7 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-I primarily work with C++ and focus on Back-End Engineering, Systems Architecture, and Blockchain Infrastructure.
+I primarily focus on Back-End Engineering, Systems Architecture, and Blockchain Infrastructure.
 
 My current interests revolve around building scalable, maintainable systems and understanding how real-world software behaves in production environments.
 
