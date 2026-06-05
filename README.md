@@ -12,11 +12,17 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-My primary programming language is C++, and my long-term interests focus on Back-End and Blockchain. In recent months, I have been concentrating on Software architecture  together with the exploration of practical application scenarios.
+I primarily work with C++ and focus on Back-End Engineering, Systems Architecture, and Blockchain Infrastructure.
 
-I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work.
+My current interests revolve around building scalable, maintainable systems and understanding how real-world software behaves in production environments.
 
-I'm currently focus on the practical implementation.
+I care deeply about software architecture, performance, debugging, and thoughtful engineering trade-offs rather than simply writing code.
+
+In the age of AI-assisted development, I believe the value of an engineer comes from system thinking, practical execution, and the ability to transform ideas into reliable products.
+
+My long-term goal is to become an independent full-stack engineer capable of designing polished, high-quality systems with strong technical and product foundations.
+
+
 </div>
 
 
@@ -32,7 +38,6 @@ I'm currently focus on the practical implementation.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Serverless_Architecture-FFDD00?style=for-the-badge&logo=serverless&logoColor=black" />
@@ -42,7 +47,6 @@ I'm currently focus on the practical implementation.
 <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Tokio-FF4500?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FCC72C?style=for-the-badge&logo=hardhat&logoColor=black" />
@@ -58,6 +62,5 @@ I'm currently focus on the practical implementation.
 <img src="https://img.shields.io/badge/Web3.js-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethers.js-5c5c5c?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPFS-Blue?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
 
