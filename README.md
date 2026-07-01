@@ -12,13 +12,13 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-I primarily focus on Back-End Engineering, Systems Architecture, and Blockchain Infrastructure.
+I primarily focus on Back-End Engineering, Systems Architecture, and Blockchain.
 
 My current interests revolve around building scalable, maintainable systems and understanding how real-world software behaves in production environments.
 
 I care deeply about software architecture, performance, debugging, and thoughtful engineering trade-offs rather than simply writing code.
 
-In the age of AI-assisted development, I believe the value of an engineer comes from system thinking, practical execution, and the ability to transform ideas into reliable products.
+In the age of AI development, I believe an engineer's value comes from systems thinking, practical execution, and the ability to transform ideas into reliable products.
 
 My long-term goal is to become an independent full-stack engineer capable of designing polished, high-quality systems with strong technical and product foundations.
 
@@ -37,22 +37,17 @@ My long-term goal is to become an independent full-stack engineer capable of des
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Serverless_Architecture-FFDD00?style=for-the-badge&logo=serverless&logoColor=black" />
-<img src="https://img.shields.io/badge/Load_Balancing-4B0082?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Scalability-2F4F4F?style=for-the-badge&logo=apachehadoop&logoColor=white" />
 <img src="https://img.shields.io/badge/Distributed_Systems-708090?style=for-the-badge&logo=consul&logoColor=white" />
 <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Tokio-FF4500?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FCC72C?style=for-the-badge&logo=hardhat&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
 <img src="https://img.shields.io/badge/Alchemy-1E1E1E?style=for-the-badge&logo=alchemy&logoColor=blue" />
-<img src="https://img.shields.io/badge/Infura-F24E1E?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
 <img src="https://img.shields.io/badge/ZKSync-6E56CF?style=for-the-badge&logo=zk-rollups&logoColor=white" />
