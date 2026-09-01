@@ -12,15 +12,13 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-I primarily focus on Back-End Engineering, Systems Architecture, and Blockchain.
+I’m a software engineer focused on Back-End Engineering, System Design, Distributed Systems, and Blockchain, with a strong interest in building reliable software that performs well in real-world production environments, enjoying working on the parts of engineering that go beyond implementation: designing APIs and services, thinking about scalability and reliability, improving performance, debugging complex issues, and making the right trade-offs between simplicity, cost, and long-term maintainability.
 
-My current interests revolve around building scalable, maintainable systems and understanding how real-world software behaves in production environments.
+My current areas of interest include backend architecture, observability, performance optimization, and production reliability. I’m particularly interested in understanding how systems behave under real workloads and how thoughtful engineering decisions can make them more resilient and easier to evolve.
 
-I care deeply about software architecture, performance, debugging, and thoughtful engineering trade-offs rather than simply writing code.
+AI is changing how software is built, and I see it as a powerful engineering multiplier rather than a replacement for engineering judgment. I believe strong engineers stand out through system thinking, critical evaluation, debugging, architecture decisions, and the ability to turn AI-assisted development into reliable production software.
 
-In the age of AI development, I believe an engineer's value comes from systems thinking, practical execution, and the ability to transform ideas into reliable products.
-
-My long-term goal is to become an independent full-stack engineer capable of designing polished, high-quality systems with strong technical and product foundations.
+My long-term goal is to become an end-to-end engineer capable of taking products from idea and system architecture to implementation, deployment, and continuous improvement — combining strong technical foundations with a practical understanding of product and user needs.
 
 
 </div>
