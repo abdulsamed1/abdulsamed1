@@ -12,13 +12,7 @@
 
 <div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
 
-I’m a software engineer focused on Back-End Engineering, System Design, Distributed Systems, and Blockchain, with a strong interest in building reliable software that performs well in real-world production environments, enjoying working on the parts of engineering that go beyond implementation: designing APIs and services, thinking about scalability and reliability, improving performance, debugging complex issues, and making the right trade-offs between simplicity, cost, and long-term maintainability.
-
-My current areas of interest include backend architecture, observability, performance optimization, and production reliability. I’m particularly interested in understanding how systems behave under real workloads and how thoughtful engineering decisions can make them more resilient and easier to evolve.
-
-AI is changing how software is built, and I see it as a powerful engineering multiplier rather than a replacement for engineering judgment. I believe strong engineers stand out through system thinking, critical evaluation, debugging, architecture decisions, and the ability to turn AI-assisted development into reliable production software.
-
-My long-term goal is to become an end-to-end engineer capable of taking products from idea and system architecture to implementation, deployment, and continuous improvement — combining strong technical foundations with a practical understanding of product and user needs.
+I’m a software engineer focused on AI and Back-End Engineering, System Design, Distributed Systems, with a strong interest in building reliable software that performs well in real-world production environments, enjoying working on the parts of engineering that go beyond implementation: designing APIs and services, thinking about scalability and reliability, improving performance, debugging complex issues, and making the right trade-offs between simplicity, cost, and long-term maintainability.
 
 
 </div>
