@@ -1,53 +1,148 @@
+<div align="center">
 
-<!-- Animated Title -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Abdulsamed%20Hamdy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20AI%20Infrastructure&descSize=16&descAlignY=55)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production-grade+backend+systems;Designing+for+reliability%2C+concurrency%2C+and+failure;TypeScript+%C2%B7+Rust+%C2%B7+Cloudflare+Workers)](https://git.io/typing-svg)
 
+<br>
 
-
-
-
-<h1 align="center">  <a href="https://www.linkedin.com/in/abdulsamed1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdulsamed%20Hamdy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a></h1>
-
-<div align="center" style="max-width: 80%; margin: auto; font-family: 'Segoe UI', sans-serif; line-height: 1.7; padding: 2rem;">
-
-I’m a software engineer focused on AI and Back-End Engineering, System Design, Distributed Systems, with a strong interest in building reliable software that performs well in real-world production environments, enjoying working on the parts of engineering that go beyond implementation: designing APIs and services, thinking about scalability and reliability, improving performance, debugging complex issues, and making the right trade-offs between simplicity, cost, and long-term maintainability.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsamed1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamedhamdy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsamed1)
 
 </div>
 
+<br>
 
+## About
 
+Software engineer focused on **backend engineering**, **distributed systems**, and **production reliability**. I build APIs and services that stay correct under concurrency, failure, and real traffic — from multi-channel lead ingestion and tenant-isolated gateways to AI-powered automation.
 
-<hr style="border-top: 2px solid #0077B5; width: 80%; margin: 30px auto;" />
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Serverless_Architecture-FFDD00?style=for-the-badge&logo=serverless&logoColor=black" />
-<img src="https://img.shields.io/badge/Scalability-2F4F4F?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/Distributed_Systems-708090?style=for-the-badge&logo=consul&logoColor=white" />
-<img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Tokio-FF4500?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FCC72C?style=for-the-badge&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-<img src="https://img.shields.io/badge/Alchemy-1E1E1E?style=for-the-badge&logo=alchemy&logoColor=blue" />
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-<img src="https://img.shields.io/badge/ZKSync-6E56CF?style=for-the-badge&logo=zk-rollups&logoColor=white" />
-<img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain-Developer-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Foundry-202020?style=for-the-badge&logo=foundry&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-5c5c5c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
+I work primarily with **TypeScript/Node.js**, **Rust**, **Cloudflare Workers**, **PostgreSQL**, **Redis**, and **Docker**, with a bias toward idempotency, strong validation, observability, and clean failure handling.
 
+Currently open to **backend, distributed systems, and AI infrastructure** roles.
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Data & State**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & Automation**
+
+![ElizaOS](https://img.shields.io/badge/ElizaOS-000000?style=flat-square)
+![LLM Classification](https://img.shields.io/badge/LLM_Classification-412991?style=flat-square&logo=openai&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</div>
+
+<br>
+
+## Experience
+
+| Role | Organization | Period | Focus |
+|:-----|:-------------|:------:|:------|
+| **Forward Deployed Engineer** | [Eagles](https://app.eagles-eg.online/) | Jun 2026 – Oct 2026 | CRM automation, webhook ingestion, lead routing |
+| **Forward Deployed Engineer** | [Opran](https://opran.org/) · Self-employed | Nov 2025 – Jul 2026 | Tenant-isolated pricing gateway, billing, reliability |
+
+<br>
+
+## Impact
+
+<table>
+<tr>
+<td align="center"><b>8,000+</b><br><sub>Skill files processed</sub></td>
+<td align="center"><b>3,600+</b><br><sub>Skills catalogued</sub></td>
+<td align="center"><b>100+</b><br><sub>Repositories aggregated</sub></td>
+<td align="center"><b>~270 ms</b><br><sub>Booking scan latency</sub></td>
+</tr>
+</table>
+
+<br>
+
+## Selected Projects
+
+### [Booking Automation](https://github.com/abdulsamed1/aegisflow) · `aegisflow`
+
+**Cloudflare Workers · Durable Objects · SQL · Telegram Bot API**
+
+- Scans an eight-week booking horizon at roughly 270 ms per request, running up to 24 parallel requests across 20 active jobs.
+- Uses Durable Objects and SQL-backed state to prevent duplicate bookings during concurrent execution, verified with concurrency tests.
+- Protects applicant data with AES-256-GCM field-level encryption, runtime-managed secrets, and administrative authentication.
+- Handles failures with execution timeouts, adaptive backoff, circuit breakers, and fallbacks for browser and audio-transcription failures.
+
+### [AI Aggregator](https://github.com/abdulsamed1/AI-skills-bank) · `AI-skills-bank`
+
+**Rust · LLM Classification · CI/CD**
+
+- Built a classification pipeline combining deterministic keyword filtering with LLM-based semantic classification across 8,000+ skill files.
+- Aggregated 100+ repositories into a deduplicated catalog of 3,600+ skills, routable to 12+ AI-agent platforms.
+- Added classification caching and cache metrics, jittered exponential backoff, circuit breaking, and schema-aware output validation.
+
+### [Autonomous AI Agents](https://github.com/abdulsamed1/Intellichain) · `Intellichain`
+
+**ElizaOS · TypeScript · Docker**
+
+- Integrated an ElizaOS agent to extract wallet addresses and claim codes from social media replies and detect claim intent.
+- Connected agent outputs to a four-stage workflow for validation, eligibility checks, authorization, and reward delivery.
+- Added server-side claim validation to prevent duplicate redemptions, with tests covering access control, fulfillment, rewards, and gas usage.
+
+<br>
+
+## Education
+
+**Bachelor's Degree in Management Information Systems** — New Cairo Academy · Cairo, Egypt · 2026
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulsamed1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF" height="165" />
+<img src="https://streak-stats.demolab.com?user=abdulsamed1&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Open to backend, distributed systems, and AI infrastructure roles.**
+
+📧 [abdulsamedhamdy@gmail.com](mailto:abdulsamedhamdy@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/abdulsamed1)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
+
+</div>
